@@ -40,7 +40,7 @@ Security is important, that is the reason that we are working really hard to cre
 
 ## Deployed links ✏️
 
-* [Github Pages](https://fabri-tech.github.io/Password-generator-Fabrizio-Trevi-o/)
+* [GitHub Pages](https://fabri-tech.github.io/Password-generator-Fabrizio-Trevi-o/)
 
 * [Github Repository](https://github.com/Fabri-Tech?tab=repositories)
 
