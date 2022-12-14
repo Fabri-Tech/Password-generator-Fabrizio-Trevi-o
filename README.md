@@ -1,39 +1,44 @@
-# Password Generator Starter Code
+# 🔒 Password Generator Starter Code 🔒
 
-## Table of contents
+## Table of contents 🚀
 
 * [Introduction](#introduction)
-* [Requirements](#requirements)
-* [Before we get started](#before-we-get-started)
-* [Personal opinion](#personal-opinion)
+* [Requirements](#requirements-📣)
+* [Before we get started](#before-we-get-started-🚩)
+* [Personal opinion](#personal-opinion-™️)
 * [Credits](#credits)
 
-## Introduction
+## Introduction 💣
 
 Welcome to my random password generator, you will be able to create a password with the following characteristics:
 
-* Uppercases
-* Lowercases
-* Numbers
-* Symbols
+* Uppercases 🆎
 
-## Requirements
+* Lowercases 🆒
 
-* GitHub
+* Numbers 🔢
 
-* Your preferred browser
+* Symbols 🉐
 
-* VS code
+## Requirements 📣
 
-## Before we get started
+* GitHub 🐱
+
+* Your preferred browser 🌍
+
+* VS code 🆚
+
+* A place to store your password. 🛡️
+
+## Before we get started 🚩
 
 Be sure to have somewhere safe to keep the generated password in case that you will be using it in the future.
 
-## Personal opinion
+## Personal opinion :tm:
 
 Security is important, that is the reason that we are working really hard to create this random password generator.
 
-## Deployed links
+## Deployed links ✏️
 
 * [Github Pages](https://fabri-tech.github.io/Password-generator-Fabrizio-Trevi-o/)
 
